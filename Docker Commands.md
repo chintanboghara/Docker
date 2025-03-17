@@ -783,3 +783,4 @@ docker trust sign <image_name>:<tag>
 docker trust inspect <image_name>:<tag>
 ```
 *Example: `docker trust inspect myimage:latest` shows trust metadata for "myimage:latest".*
+
